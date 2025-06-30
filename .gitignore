@@ -1,0 +1,8 @@
+# Ignore sensitive config
+functions/config.php
+
+# Other common ignores
+*.env
+*.log
+vendor/
+node_modules/
